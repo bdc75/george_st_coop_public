@@ -1,0 +1,30 @@
+__pycache__
+.py*
+.vscode
+launch.json
+backup
+kehe-old
+tests
+threshold
+venv*
+# *password
+notes*
+test*
+TODO.txt
+2024-05-11_threshold_price_catalog.zip
+_threshold_old_dl.py
+# email-*
+# *-email
+_threshold-old-catalog.py
+_threshold_regulars_helper.py
+_threshold_specials_helper.py
+_threshold_old_nav.py
+kehe-test-cmds
+notes*
+old-unused
+unfi-notes.txt
+codegen-alt-acct.txt
+codegen-gen-report.txt
+.env
+UNFILOG.log
+UNFInotify

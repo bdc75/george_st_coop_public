@@ -1,0 +1,13 @@
+Most common misspellings:
+January: Janurary
+February: Feburary
+March: MArch
+April: Appril
+May: Mya
+June: Jnue
+July: JUly
+August: AUgust
+September: Septmber
+October: Ocotber
+November: Novebmer
+December: Decmber

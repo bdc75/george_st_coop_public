@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.2
+bs4==0.0.1
+certifi==2023.11.17
+chardet==4.0.0
+colorama==0.4.6
+greenlet==2.0.2
+idna==2.10
+playwright==1.36.0
+pyee==9.0.4
+python-dotenv==1.0.1
+requests==2.25.1
+soupsieve==2.5
+typing_extensions==4.7.1
+urllib3==1.26.18
